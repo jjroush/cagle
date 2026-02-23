@@ -13,11 +13,9 @@ jobs:
     strategy:
       matrix:
         include:
-          - runner: macos-latest
-            target: aarch64-apple-darwin
-          - runner: macos-13
-            target: x86_64-apple-darwin
-    runs-on: ${{ matrix.runner }}
+          - target: aarch64-apple-darwin
+          - target: x86_64-apple-darwin
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
 
