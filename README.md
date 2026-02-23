@@ -3,6 +3,7 @@
 Promote Claude Code project permissions to your global settings.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![cagle](https://github.com/user-attachments/assets/23cf686f-57f6-4b3f-a53b-974ab6ed1364)
 
 ## Install
 
